@@ -30,14 +30,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 {%endcomment%}
 
-¡Hola! Soy una alumna recién egresada del [Grado en Ingeniería Informática](https://www.ull.es/grados/ingenieria-informatica/) por la Universidad de La Laguna.
-Concretamente, durante la carrera cursé el Itinerario de Ingeniería del Software.
+Hello! I am a recent graduate in [Computer Engineering](https://www.ull.es/grados/ingenieria-informatica/) from the University of La Laguna.
+Specifically, I focused on Software Engineering during my studies.
 
-Actualmente, estoy cursando el Máster en Ingeniería Informática por la misma universidad, dado que me gustan la programación y el diseño, y me gustaría dedicarme a la creación y el diseño de páginas web en un futuro cercano.
+Currently, I am pursuing a Master’s in Computer Engineering at the same university. I enjoy programming and design, and in the near future, I would like to focus on web development.
 
 ---
 
-Este fue el primer programa que hice cuando comencé la carrera:
+This was the first program I wrote when I started my degree:
 
 {% highlight c++ %}
 #include <iostream>
@@ -48,20 +48,20 @@ int main() {
 }
 {% endhighlight %}
 
-Más adelante, fui realizando programas cada vez más complejos, desde resolver ecuaciones de primer grado, como puede ser `2x + 4 = 0`, a programar auténticos Autómatas Finitos Regulares (DFAs), entre muchos otros.
+Later on, I started creating more complex programs, from solving linear equations like `2x + 4 = 0` to programming full Deterministic Finite Automata (DFAs), among many others.
 
-A día de hoy, tengo la capacidad de programar aplicaciones de escritorio mucho más complejas. Por ejemplo, mi Trabajo de Fin de Grado fue una aplicación de gestión de torneos escrita en Java para la Olimpiada de Pensamiento Computacional.
+Today, I am capable of programming much more complex desktop applications. For example, my Final Degree Project was a tournament management application written in Java for the Computational Thinking Olympiad.
 
-Las asignaturas que más me gustaron durante la carrera fueron las siguientes:
-* Expresión Gráfica en Ingeniería
-* Fundamentos Físicos en Ingeniería
-* Modelado de Datos
-* Diseño Arquitectónico y Patrones
-* Inteligencia Emocional
+The subjects I enjoyed the most during my degree were:
+* Graphic Expression in Engineering
+* Fundamentals of Physics in Engineering
+* Data Modeling
+* Architectural Design and Patterns
+* Emotional Intelligence
 
-A lo largo de la carrera, aprendí a utilizar los siguientes lenguajes de programación:
+Throughout my studies, I learned to use the following programming languages:
 1. C++
-2. Ensamblador
+2. Assembly
 3. Ruby
 4. Java
 5. Python (Julia)
